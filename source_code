@@ -1,0 +1,7 @@
+return 0 ;
+int a ;
+a = a * b + 2 ;
+int a = 3 ;
+float a = 3.0 ;
+int a = 'a' ;
+string a = 1 ;
